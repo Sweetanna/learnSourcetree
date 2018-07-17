@@ -1,2 +1,2 @@
 feature_1.1
-geature_1.2
+feature_1.2
